@@ -16,7 +16,8 @@ nodemon index.js
 
 # Demo 
 
-After following the above steps you should see the demo as shown below. 
-![images/qr_gen_demo.png](Demo-Image)
+After following the above steps you should see the demo as shown below.   
+
+![https://github.com/shariqmalik10/QR-Code-Project/tree/dbb690360060aea2910d8b0cb0c20cb9b6b30369/images](Demo-Image)
 
 Then you can generate the qr codes as you wish. Once you have generated one qr, you can use the command 'rs' to restart and then generate for the next url 
